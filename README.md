@@ -1,8 +1,4 @@
 
-https://github.com/user-attachments/assets/af5b5834-f484-4421-8720-63fc85a0700f
-
-https://github.com/user-attachments/assets/71322ddb-fde7-4585-a71e-a79aaaa6f52a
-
 # OdxViewerDesktopApplication
 
 The code for this project is private due to company confidentiality. Below are the demos for the OdxViewer Desktop Application.
